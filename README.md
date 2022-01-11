@@ -1,9 +1,9 @@
 # ⏲ Arduino Chicken Door Opener
 motorized arduino 2 relay timer opener
 
-ESP8266 Wemos D1 Mini +  0.66 inch 64X48 OLED 
+Arduino Uno/Nano + RTC + 2 relay
 <br>
-📎 STL file for 3D print: https://www.thingiverse.com/thing:3450373
+📎 STL file for 3D print: https://www.thingiverse.com
 
 🛒 🌎 <a href="https://www.aliexpress.com/item/">EU/US </a><br>
 🛒 🌎 <a href="https://www.aliexpress.com/item/">EU/US 2 </a>
