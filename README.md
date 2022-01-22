@@ -1,4 +1,4 @@
-# ⏲ Arduino Chicken Door Opener
+# 🚪🐔 Arduino Chicken Door Opener
 motorized arduino 2 relay timer opener
 
 Arduino Uno/Nano + RTC + 2 relay
