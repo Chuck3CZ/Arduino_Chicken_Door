@@ -57,10 +57,14 @@ void displayTime(){
     Serial.print(hour, DEC);
     // convert the byte variable to a decimal number when displayed
     Serial.print(":");
-   
+    if (minute<10){
+        Serial.print("0");
+    }
     Serial.print(minute, DEC);
     Serial.print(":");
-    
+    if (second<10){
+        Serial.print("0");
+    }
     Serial.print(second, DEC);
     Serial.print(" ");
     Serial.print(dayOfMonth, DEC);
